@@ -47,7 +47,7 @@ app.use(function(err, req, res, next) {
 
 
 app.listen(process.env.PORT, ()=>{
-    console.log("corriendo en puerto "+ process.env.PORT);
+    console.log("corriendo en puerto  número"+ process.env.PORT);
 })
 // app.listen()
 
