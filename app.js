@@ -22,7 +22,7 @@ app.use(express.json())
 //     origin : ['http://localhost:4200'],
 //  }
 let corsOptions = {
-    origin : ['https://babwfzkf.lucusprueba.es/nodosa'],
+    origin : ['https://superstring.onrender.com'],
  }
 app.use(cors(corsOptions))
 // app.use(conn)
